@@ -40,7 +40,7 @@
     </article-meta>
   </front>
   <body id="body-1">
-    <p id="p-3ed84e51e6544397eff703fce01dc02e">We use some simple Ice Cream sales data (use the tab at the bottom to see the data).</p>
+    <p id="p-3ed84e51e6544397eff703fce01dc02e">We use some simple <italic id="italic-24fd033d8d67b08f17297a81419fe1ec">Ice Cream Sales</italic> data (switch the tab at the bottom to see it).</p>
     <code id="cell-2" specific-use="cell">
       <named-content>
         <alternatives>
@@ -54,7 +54,7 @@
       <named-content>
         <alternatives>
           <code specific-use="source" language="mini"><![CDATA[plot(data, 'temp')]]></code>
-          <code specific-use="output" language="json"><![CDATA[{"type":"plotly","data":{"type":"plotly","traces":[{"type":"scatter","mode":"markers","x":[18,20,24,23,26,25,20,17,18],"y":[50,126,118,126,280,102,93,32,103],"marker":{"opacity":0.5,"size":10,"sizemode":"area"},"uid":"fb2547"}],"layout":{"xaxis":{"title":"Temp","linecolor":"black","linewidth":1,"mirror":true,"ticks":"outside","showspikes":false,"type":"linear","range":[16.25728155339806,26.74271844660194],"autorange":true},"yaxis":{"title":"Sales","linecolor":"black","linewidth":1,"mirror":true,"ticks":"outside","showspikes":false,"type":"linear","range":[11.75984990619137,300.2401500938086],"autorange":true},"margin":{"l":50,"r":50,"t":40,"b":50},"width":"400","height":"400"}}}]]></code>
+          <code specific-use="output" language="json"><![CDATA[{"type":"plotly","data":{"type":"plotly","traces":[{"type":"scatter","mode":"markers","x":[18,20,24,23,26,25,20,17,18],"y":[50,126,118,126,280,102,93,32,103],"marker":{"opacity":0.5,"size":10,"sizemode":"area"},"uid":"7fae74"}],"layout":{"xaxis":{"title":"Temp","linecolor":"black","linewidth":1,"mirror":true,"ticks":"outside","showspikes":false,"type":"linear","range":[16.25728155339806,26.74271844660194],"autorange":true},"yaxis":{"title":"Sales","linecolor":"black","linewidth":1,"mirror":true,"ticks":"outside","showspikes":false,"type":"linear","range":[11.75984990619137,300.2401500938086],"autorange":true},"margin":{"l":50,"r":50,"t":40,"b":50},"width":"400","height":"400"}}}]]></code>
         </alternatives>
       </named-content>
     </code>
@@ -63,7 +63,7 @@
       <p id="heading-2719e91855d01915eeef24a4dc196539" level="1">If you have opened this document, please consider adding a heading (your name) and a paragraph here.</p>
       <sec id="heading-8868160a4024ed51b80a1f8594e0da9f">
         <title>John Doe</title>
-        <p id="heading-56715516bdfff54d4c53c09a7a8e3ff9" level="2">Hi this is really nice. Feels like office but let's me author reproducible documents and share them openly.</p>
+        <p id="heading-56715516bdfff54d4c53c09a7a8e3ff9" level="2">Hi, this is really nice. Feels like office but let's me author reproducible documents and share them openly without any vendor lock-in.</p>
       </sec>
     </sec>
   </body>
