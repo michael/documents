@@ -8,21 +8,21 @@ Spoiler: *We'll be using Git for sharing and versioning and [Stencila Desktop](h
 
 1. First clone this repo (or even better use your own fork).
 
-  ```
-  $ git clone https://github.com/michael/documents.git
-  ```
+    ```
+    $ git clone https://github.com/michael/documents.git
+    ```
 
 2. Open Stencila Desktop
 
-  This will soon be just an app download. But until then install and run the development version like so:
+    This will soon be just an app download. But until then install and run the development version like so:
 
-  ```
-  $ git clone https://github.com/stencila/desktop.git
-  $ npm install
-  $ npm start
-  ```
+    ```
+    $ git clone https://github.com/stencila/desktop.git
+    $ npm install
+    $ npm start
+    ```
 
-  *NOTE: You must have Node.js installed.*
+    *NOTE: You must have Node.js installed.*
 
 3. Navigate to `documents/hello-world` and open for editing.
 
