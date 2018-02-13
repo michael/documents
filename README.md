@@ -19,6 +19,7 @@ Spoiler: *We'll be using Git for sharing and versioning and [Stencila Desktop](h
 
     ```
     $ git clone https://github.com/stencila/desktop.git
+    $ cd desktop
     $ npm install
     $ npm start
     ```
