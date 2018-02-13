@@ -1,6 +1,6 @@
 # My Reproducible Documents
 
-Hello. Do you have 15 minutes to help me test a new open collaboration workflow for reproducible scientific documents?
+Hello. Do you have 10 minutes to help me test a new open collaboration workflow for reproducible scientific documents?
 
 Spoiler: *We'll be using Git for sharing and versioning and [Stencila Desktop](https://github.com/stencila/desktop) for editing.*
 
