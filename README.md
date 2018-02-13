@@ -27,7 +27,7 @@ Spoiler: *We'll be using Git for sharing and versioning and [Stencila Desktop](h
 
 3. Navigate to `documents/hello-world` and open for editing.
 
-4. Now add a paragraph to the button of the document, save the changes and consider pushing them to your forn and submitting a Pull Request. I will merge asap!
+4. Now add a paragraph to the button of the document, save the changes and consider pushing them to your fork and submitting a Pull Request on Github. I will merge asap!
 
 
 Please post any feedback in the [Stencila Community Forum](https://community.stenci.la/).
