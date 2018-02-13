@@ -33,4 +33,4 @@ Spoiler: *We'll be using Git for sharing and versioning and [Stencila Desktop](h
 
 Please post any feedback in the [Stencila Community Forum](https://community.stenci.la/t/rfc-a-new-stencila-desktop/126/2).
 
-Thank you!
+Merci! :)
