@@ -5,6 +5,7 @@ Hello. Do you have 15 minutes to help me test a new open collaboration workflow 
 Spoiler: *We'll be using Git for sharing and versioning and [Stencila Desktop](https://github.com/stencila/desktop) for editing*
 
 
+![](./stencila-desktop.png)
 
 1. First clone this repo (or even better use your own fork).
 
