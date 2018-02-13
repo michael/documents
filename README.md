@@ -31,6 +31,6 @@ Spoiler: *We'll be using Git for sharing and versioning and [Stencila Desktop](h
 4. Now add a paragraph to the button of the document, save the changes and consider pushing them to your fork and submitting a Pull Request on Github. I will merge asap!
 
 
-Please post any feedback in the [Stencila Community Forum](https://community.stenci.la/).
+Please post any feedback in the [Stencila Community Forum](https://community.stenci.la/t/rfc-a-new-stencila-desktop/126/2).
 
 Thank you!
