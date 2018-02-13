@@ -25,7 +25,7 @@ Spoiler: *We'll be using Git for sharing and versioning and [Stencila Desktop](h
 
     *NOTE: You must have Node.js installed.*
 
-3. Navigate to `documents/welcome-to-stencila` and open for editing.
+3. Navigate to `.../documents/welcome-to-stencila` and open for editing.
 
 4. Now add a paragraph to the button of the document, save the changes and consider pushing them to your fork and submitting a Pull Request on Github. I will merge asap!
 
