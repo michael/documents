@@ -13,7 +13,7 @@ Spoiler: *We'll be using Git for sharing and versioning and [Stencila Desktop](h
     $ git clone https://github.com/michael/documents.git
     ```
 
-2. Open Stencila Desktop
+2. Open Stencila Desktop.
 
     This will soon be just an app download. But until then install and run the development version like so:
 
