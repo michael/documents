@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "JATS4R 1.1" "http://texture.substance.io/JATS4R-1.1.dtd">
+<article id="article" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front id="front-1">
+    <article-meta id="article-meta-1">
+      <title-group id="title-group-1">
+        <article-title id="article-title-1">Welcome to Stencila</article-title>
+      </title-group>
+      <contrib-group id="contrib-group-1" content-type="author">
+        <contrib id="contrib-3" contrib-type="person">
+          <name>
+            <surname>Aufreiter</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2" />
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <institution content-type="orgname">Stencila Ltd.</institution>
+        <city>Kaikoura</city>
+        <country>New Zealand</country>
+      </aff>
+      <aff id="aff2">
+        <institution content-type="orgname">Substance Software GmbH</institution>
+        <city>Linz</city>
+        <country>Austria</country>
+      </aff>
+      <aff id="aff3">
+        <institution content-type="orgname">eLife</institution>
+        <city>Cambridge</city>
+        <country>UK</country>
+      </aff>
+      <history id="history-1" />
+      <abstract id="abstract-1">
+        <p id="p-1">Hi there. This is an experiment of collaboratively editing a reproducible document. Please join the fun!</p>
+      </abstract>
+      <trans-abstract id="trans-abstract-1" xml:lang="de">
+        <p id="p-2">Deutsche Übersetzung</p>
+      </trans-abstract>
+    </article-meta>
+  </front>
+  <body id="body-1">
+    <p id="p-3ed84e51e6544397eff703fce01dc02e">We use some simple Ice Cream sales data (use the tab at the bottom to see the data).</p>
+    <code id="cell-2" specific-use="cell">
+      <named-content>
+        <alternatives>
+          <code specific-use="source" language="mini"><![CDATA[data = sheet1!A1:C9]]></code>
+          <code specific-use="output" language="json"><![CDATA[{"type":"table","data":{"type":"table","data":{"temp":[18,20,24,23,26,25,20,17,18],"sales":[50,126,118,126,280,102,93,32,103],"sunny":["no","yes","yes","yes","yes","no","no","no","yes"]},"columns":3,"rows":9}}]]></code>
+        </alternatives>
+      </named-content>
+    </code>
+    <p id="p-10">Now lets visualize the data set using Stencila's built in plot function.</p>
+    <code id="cell-4" specific-use="cell">
+      <named-content>
+        <alternatives>
+          <code specific-use="source" language="mini"><![CDATA[plot(data, 'temp')]]></code>
+          <code specific-use="output" language="json"><![CDATA[{"type":"plotly","data":{"type":"plotly","traces":[{"type":"scatter","mode":"markers","x":[18,20,24,23,26,25,20,17,18],"y":[50,126,118,126,280,102,93,32,103],"marker":{"opacity":0.5,"size":10,"sizemode":"area"},"uid":"fb2547"}],"layout":{"xaxis":{"title":"Temp","linecolor":"black","linewidth":1,"mirror":true,"ticks":"outside","showspikes":false,"type":"linear","range":[16.25728155339806,26.74271844660194],"autorange":true},"yaxis":{"title":"Sales","linecolor":"black","linewidth":1,"mirror":true,"ticks":"outside","showspikes":false,"type":"linear","range":[11.75984990619137,300.2401500938086],"autorange":true},"margin":{"l":50,"r":50,"t":40,"b":50},"width":"400","height":"400"}}}]]></code>
+        </alternatives>
+      </named-content>
+    </code>
+    <sec id="heading-b422b1bf91052b88be263151fe822946">
+      <title>Your paragraph</title>
+      <p id="heading-2719e91855d01915eeef24a4dc196539" level="1">If you have opened this document, please consider adding a heading (your name) and a paragraph here.</p>
+      <sec id="heading-8868160a4024ed51b80a1f8594e0da9f">
+        <title>John Doe</title>
+        <p id="heading-56715516bdfff54d4c53c09a7a8e3ff9" level="2">Hi this is really nice. Feels like office but let's me author reproducible documents and share them openly.</p>
+      </sec>
+    </sec>
+  </body>
+  <back id="back-1">
+    <ref-list id="ref-list-1" />
+  </back>
+</article>
