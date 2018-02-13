@@ -1,4 +1,4 @@
-# My Documents
+# My Reproducible Documents
 
 Hello. Do you have 15 minutes to help me test a new open collaboration workflow for reproducible scientific documents?
 
