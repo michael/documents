@@ -54,7 +54,7 @@
       <named-content>
         <alternatives>
           <code specific-use="source" language="mini"><![CDATA[plot(data, 'temp')]]></code>
-          <code specific-use="output" language="json"><![CDATA[{"type":"plotly","data":{"type":"plotly","traces":[{"type":"scatter","mode":"markers","x":[18,20,24,23,26,25,20,17,18],"y":[50,126,118,126,280,102,93,32,103],"marker":{"opacity":0.5,"size":10,"sizemode":"area"},"uid":"7fae74"}],"layout":{"xaxis":{"title":"Temp","linecolor":"black","linewidth":1,"mirror":true,"ticks":"outside","showspikes":false,"type":"linear","range":[16.25728155339806,26.74271844660194],"autorange":true},"yaxis":{"title":"Sales","linecolor":"black","linewidth":1,"mirror":true,"ticks":"outside","showspikes":false,"type":"linear","range":[11.75984990619137,300.2401500938086],"autorange":true},"margin":{"l":50,"r":50,"t":40,"b":50},"width":"400","height":"400"}}}]]></code>
+          <code specific-use="output" language="json"><![CDATA[{"type":"plotly","data":{"type":"plotly","traces":[{"type":"scatter","mode":"markers","x":[18,20,24,23,26,25,20,17,18],"y":[50,126,118,126,280,102,93,32,103],"marker":{"opacity":0.5,"size":10,"sizemode":"area"},"uid":"ec882d"}],"layout":{"xaxis":{"title":"Temp","linecolor":"black","linewidth":1,"mirror":true,"ticks":"outside","showspikes":false,"type":"linear","range":[16.25728155339806,26.74271844660194],"autorange":true},"yaxis":{"title":"Sales","linecolor":"black","linewidth":1,"mirror":true,"ticks":"outside","showspikes":false,"type":"linear","range":[11.75984990619137,300.2401500938086],"autorange":true},"margin":{"l":50,"r":50,"t":40,"b":50},"width":"400","height":"400"}}}]]></code>
         </alternatives>
       </named-content>
     </code>
@@ -64,6 +64,15 @@
       <sec id="heading-8868160a4024ed51b80a1f8594e0da9f">
         <title>John Doe</title>
         <p id="heading-56715516bdfff54d4c53c09a7a8e3ff9" level="2">Hi, this is really nice. Feels like office but let's me author reproducible documents and share them openly without any vendor lock-in.</p>
+      </sec>
+      <sec id="heading-0886f97e887478c747a6ddfd73a5f961">
+        <title>rektide</title>
+        <p id="heading-961b4e889c6a8fd62dd1d005386c46bc" level="2">Clean and simple interface. Very nice. Found this via <ext-link id="ext-link-52fd362ca05887610a06578445592c24" xlink:href="https://mobile.twitter.com/_mql/status/963869286812045313">this tweet</ext-link>:</p>
+        <disp-quote id="disp-quote-aaefc11df22d89bc6143b09da0d43aa9">
+          <p id="p-c4e6aabb764a33dbffd68b875a22ef7d">Have 10 minutes to try out authoring a reproducible article in a novel visual editor and share/collaborate via Git? </p>
+          <attrib id="attrib-eb36753b20db1e071ad8ccf5ca597b7e">https://mobile.twitter.com/_mql/status/963869286812045313</attrib>
+        </disp-quote>
+        <p id="p-dfef2b24035009f51fbbf561a7205202" level="2">I love data stored and collaborated on in Git so I couldn't not try this out!</p>
       </sec>
     </sec>
   </body>
