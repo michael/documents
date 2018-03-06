@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE article PUBLIC "JATS4R 1.1" "http://texture.substance.io/JATS4R-1.1.dtd">
+<!DOCTYPE article PUBLIC "DarArticle 0.1.0" "http://darformat.org/DarArticle-0.1.0.dtd">
 <article id="article" xmlns:xlink="http://www.w3.org/1999/xlink">
   <front id="front-1">
     <article-meta id="article-meta-1">
@@ -54,7 +54,7 @@
       <named-content>
         <alternatives>
           <code specific-use="source" language="mini"><![CDATA[plot(data, 'temp')]]></code>
-          <code specific-use="output" language="json"><![CDATA[{"type":"plotly","data":{"type":"plotly","traces":[{"type":"scatter","mode":"markers","x":[18,20,24,23,26,25,20,17,18],"y":[50,126,118,126,280,102,93,32,103],"marker":{"opacity":0.5,"size":10,"sizemode":"area"},"uid":"13e498"}],"layout":{"xaxis":{"title":"Temp","linecolor":"black","linewidth":1,"mirror":true,"ticks":"outside","showspikes":false,"type":"linear","range":[16.25728155339806,26.74271844660194],"autorange":true},"yaxis":{"title":"Sales","linecolor":"black","linewidth":1,"mirror":true,"ticks":"outside","showspikes":false,"type":"linear","range":[11.75984990619137,300.2401500938086],"autorange":true},"margin":{"l":50,"r":50,"t":40,"b":50},"width":"400","height":"400"}}}]]></code>
+          <code specific-use="output" language="json"><![CDATA[{"type":"plotly","data":{"type":"plotly","traces":[{"type":"scatter","mode":"markers","x":[18,20,24,23,26,25,20,17,18],"y":[50,126,118,126,280,102,93,32,103],"marker":{"opacity":0.5,"size":10,"sizemode":"area"},"uid":"6fbf65"}],"layout":{"xaxis":{"title":"Temp","linecolor":"black","linewidth":1,"mirror":true,"ticks":"outside","showspikes":false,"type":"linear","range":[16.25728155339806,26.74271844660194],"autorange":true},"yaxis":{"title":"Sales","linecolor":"black","linewidth":1,"mirror":true,"ticks":"outside","showspikes":false,"type":"linear","range":[11.75984990619137,300.2401500938086],"autorange":true},"margin":{"l":50,"r":50,"t":40,"b":50},"width":"400","height":"400"}}}]]></code>
         </alternatives>
       </named-content>
     </code>
@@ -79,8 +79,21 @@
         <p id="p-d507422a20ce6aaa6ddcb68a4d7e5f2c" level="2">Looks fun and clean!</p>
       </sec>
     </sec>
+    <sec id="heading-feb16d39a28d156719f45cd0884b9503">
+      <title>Tamir Hassan</title>
+      <p id="p-c65dc8a3d7ab677f1899f0e3c9313963" level="2">Glad to see that progress is being made here! Not sure if the citation function <xref id="xref-c3434f8c6ba90debdf262b5ca3b76586" ref-type="bibr" rid="">???</xref> is quite working as it should ...</p>
+      <p id="p-4c0fc6279339c4b93c74fac5b83e1f84" level="2">Grüße nach Linz!</p>
+    </sec>
   </body>
   <back id="back-1">
-    <ref-list id="ref-list-1" />
+    <ref-list id="ref-list-1">
+      <ref id="ref-0d1c0f7d1a2fd7d3d25edb04d4abafa9">
+        <element-citation publication-type="confproc">
+          <article-title>The Browser as a Document Composition Engine</article-title>
+          <conf-name>DocEng 2015</conf-name>
+          <pub-id pub-id-type="doi">10.1145/2682571.2797063</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
   </back>
 </article>
